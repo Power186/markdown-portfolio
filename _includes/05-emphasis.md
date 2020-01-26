@@ -3,9 +3,9 @@
 Here is a list of **technical skills**: 
 
 ## Programming Languages/Frameworks
-- _Javascript_
-- React.js
-- Node.js
+- Kotlin
+- Kotlin Coroutines
+- Android Studio
 
 ## Collaboration
 - _Git_
