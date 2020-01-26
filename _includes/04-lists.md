@@ -1,5 +1,5 @@
 # A few of my favorite things:
 - Hiking in the mountains
-- Pizza
+- Skateboarding
 - Dota 2
-- Learning Front-End Development
+- Anything about health/wellness/fitness
